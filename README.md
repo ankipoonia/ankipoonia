@@ -1,4 +1,4 @@
-# Hi there, I'm Ankit Poonia [ankipoonia][website] 👋
+# Hi there, I'm Ankit Poonia [<img alt="logo" width="26px" src="https://ankipoonia.github.io/assets/img/man.png" /> ankipoonia][website]
 
 ## I'm a Coder, Developer and Pythonista!!
 
