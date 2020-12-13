@@ -32,7 +32,7 @@
 
 ---
 
-![Anki's github stats](https://github-readme-stats.vercel.app/api?username=ankipoonia&count_private=true&show_icons=true)
+![Anki's github stats](https://github-readme-stats.vercel.app/api?username=ankipoonia&count_private=true&show_icons=true&bg-color=90deg,#00C9FF,#92FE9D)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankipoonia&layout=compact)](https://github.com/ankipoonia/github-readme-stats)
 
 [website]: https://ankipoonia.github.io
