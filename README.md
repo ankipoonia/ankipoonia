@@ -32,8 +32,8 @@
 
 ---
 
-![Anki's github stats](https://github-readme-stats.vercel.app/api?username=ankipoonia&count_private=true&show_icons=true&bg_color=90,#00C9FF,#92FE9D)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankipoonia&layout=compact)](https://github.com/ankipoonia/github-readme-stats)
+![Anki's github stats](https://github-readme-stats.vercel.app/api?username=ankipoonia&count_private=true&show_icons=true&bg_color=90,00C9FF,92FE9D&hide=issues,stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankipoonia&layout=compact&bg_color=90,efd5ff,515ada&langs_count=8)](https://github.com/ankipoonia/github-readme-stats)
 
 [website]: https://ankipoonia.github.io
 [linkedin]: https://www.linkedin.com/in/ankit-592537194/
