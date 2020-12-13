@@ -32,7 +32,8 @@
 
 ---
 
-<img align="left" alt="Anki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ankipoonia&show_icons=true&hide_border=true" />
+![Anki's github stats](https://github-readme-stats.vercel.app/api?username=ankipoonia&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankipoonia&layout=compact)](https://github.com/ankipoonia/github-readme-stats)
 
 [website]: https://ankipoonia.github.io
 [linkedin]: https://www.linkedin.com/in/ankit-592537194/
